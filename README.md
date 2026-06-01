@@ -18,7 +18,7 @@ Actualmente desarrollando mi **tesis de grado en redes neuronales**, conectando 
 
 ### 🚀 Proyecto destacado
 
-#### [📊 Dashboard de Análisis de Alquileres]([https://github.com/tu-usuario/dashboard-alquileres](https://github.com/FernandoRodriguezValdivia/dashboard-alquileres) → [Demo en vivo]([link-de-vercel](https://dashboar-alquileres.netlify.app/)
+#### [📊 Dashboard de Análisis de Alquileres](https://github.com/FernandoRodriguezValdivia/dashboard-alquileres) → [Demo en vivo](https://dashboar-alquileres.netlify.app/)
 
 Dashboard interactivo que **predice precios de alquiler usando regresión lineal**.
 
