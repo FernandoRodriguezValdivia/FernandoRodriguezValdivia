@@ -31,7 +31,7 @@ Dashboard interactivo que **predice precios de alquiler usando regresión lineal
 
 **Stack:** React, recharts, matemáticas aplicadas (regresión, promedios, distribuciones)
 
-#### [🧠 Clasificador de Dígitos Manuscritos](https://github.com/FernandoRodriguezValdivia/digit-classifier) → [Demo en vivo] (https://digit-classifier-test.netlify.app/)
+#### [🧠 Clasificador de Dígitos Manuscritos](https://github.com/FernandoRodriguezValdivia/digit-classifier) → [Demo en vivo](https://digit-classifier-test.netlify.app/)
 
 Red neuronal convolucional que reconoce números escritos a mano en tiempo real.
 
