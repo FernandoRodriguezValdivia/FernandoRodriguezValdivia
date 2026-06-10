@@ -2,7 +2,7 @@
 
 ## 🧮 Matemático (último año) | Fullstack Developer | ML en formación
 
-📍 Perú | 📧 frodvaldivia@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/fernando-rodriguez-valdivia/)
+📍 Perú | 📧 frodvaldivia@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/fernando-rodriguez-valdivia/) | 🔗 [Portafolio](https://fernando-porfolio.netlify.app/)
 
 ---
 
